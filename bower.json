@@ -1,0 +1,8 @@
+{
+	"name": "definite-bootstrap",
+	"version": "1.0.0",
+	"authors": [
+		"definite <info@definite.co.id>"
+	],
+	"description": "Bootstrap LIBSASS, Font Awesome SCSS, Grunt : SASS, WATCH, CONCAT, UGLIFY"
+}
